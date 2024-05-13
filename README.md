@@ -1,8 +1,8 @@
-# Hi, I'm <span style="color: #30c67c;">dekulow</span>
+# Hi, I'm dekulow
 
-Passionate about tech since I was a kid, I'm now a student at the 42 school.</br> My interest in programming began with my discovery of video games 🎮 (and especially cheatware 👾).
+Passionate about tech since I was a kid, I'm now a student at the 42 school.</br> My interest in programming began with my discovery of video games 🎮 (~~*and especially cheatware*~~ 👾).
 
-After spending hours on learning sites (openclassroom formerly "site du zéro" in french) to understand how they work, I learned to code my first program and became even more intrigued.</br>
+After spending hours on learning sites (*openclassroom formerly "site du zéro"*) to understand how they work, I learned to code my first program and became even more intrigued.</br>
 Since then, my curiosity has only increased and I never tire of learning something new every day.
 
 I love sharing my passion with others (irl) and soon maybe online too.
